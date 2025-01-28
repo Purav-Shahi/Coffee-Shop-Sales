@@ -34,3 +34,9 @@ Tools Used 🛠️
 *  Charts (Bar, Pie, Line, etc.)
 *  Conditional Formatting
 *  Slicers and Timelines
+
+License 📜
+This project is open-source and free to use. Feel free to modify the file and adapt it to your own data.
+
+
+ 
